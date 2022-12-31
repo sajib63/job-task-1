@@ -3,7 +3,7 @@ import storageImage from '../../Assets/we are.svg'
 
 const StorageBank = () => {
     return (
-        <div className="hero rounded-lg my-16  bg-[#2d2d2d] lg:w-[1120px] mx-auto shadow-2xl">
+        <div className="hero rounded-lg my-16  bg-[#2d2d2d]  shadow-2xl">
         <div className="hero-content flex-col  lg:flex-row-reverse lg:gap-40 items-center justify-center my-24 ">
          
           <div>
